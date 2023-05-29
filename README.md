@@ -2,6 +2,7 @@
 ## Pero Trajkovski 174008
 
 ## 2. Control Flow Graph
+
 ![Control Flow Graph](Images\cfg.png)
 
 ## 3. Цикломатска комплексност
